@@ -1,17 +1,3 @@
-<!--
-**jormunrod/jormunrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center"><img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="150" height="150"  /></p>
 
 <p align="center">
@@ -20,7 +6,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jormunrod&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
 
@@ -40,5 +26,8 @@ I am a Software Enginner student from Spain.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
- - Currently learning ROS.
+<img src="https://github.com/devicons/devicon/blob/develop/icons/ros/ros-original-wordmark.svg" title="ROS" **alt="ROS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/develop/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/develop/icons/fedora/fedora-original.svg" title="Fedora" **alt="Fedora" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/develop/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
 </p>
