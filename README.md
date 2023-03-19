@@ -31,4 +31,6 @@ I am a Software Enginner student from Spain.
 <img src="https://github.com/devicons/devicon/blob/develop/icons/fedora/fedora-original.svg" title="Fedora" **alt="Fedora" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/wappalyzer/wappalyzer/blob/50fb1fbbb33315529382413b7e0fa0a1cccab2d9/src/drivers/webextension/images/icons/Sphinx.svg" title="Sphinx" **alt="R" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/develop/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
+  
 </p>
