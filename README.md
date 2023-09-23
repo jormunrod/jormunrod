@@ -1,9 +1,3 @@
-<p align="center"><img src="[https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif](https://media2.giphy.com/media/5qFQhnkCG9IOQYGzsF/giphy.gif?cid=ecf05e479yv4myz05otbb7vogjss9dg21lx4z7u8l2iux6bm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="480" height="176"  /></p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/jorge-mun-rod"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jormunrod&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -26,5 +20,6 @@
 <img src="https://github.com/devicons/devicon/blob/develop/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/wappalyzer/wappalyzer/blob/50fb1fbbb33315529382413b7e0fa0a1cccab2d9/src/drivers/webextension/images/icons/Sphinx.svg" title="Sphinx" **alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
-  
 </p>
+
+<p align="center"><img src="https://media.giphy.com/media/5qFQhnkCG9IOQYGzsF/giphy.gif" width="240" height="88"  /></p>
