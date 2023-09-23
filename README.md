@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="150" height="150"  /></p>
+<p align="center"><img src="[https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif](https://media2.giphy.com/media/5qFQhnkCG9IOQYGzsF/giphy.gif?cid=ecf05e479yv4myz05otbb7vogjss9dg21lx4z7u8l2iux6bm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="480" height="176"  /></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jorge-mun-rod"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -7,12 +7,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jormunrod&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a Software Enginner student from Spain.
 
 ---
 
