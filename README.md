@@ -21,11 +21,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/ros/ros-original-wordmark.svg" title="ROS" **alt="ROS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/develop/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/develop/icons/fedora/fedora-original.svg" title="Fedora" **alt="Fedora" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg#L1" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
-<img src="https://github.com/wappalyzer/wappalyzer/blob/50fb1fbbb33315529382413b7e0fa0a1cccab2d9/src/drivers/webextension/images/icons/Sphinx.svg" title="Sphinx" **alt="R" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-plain.svg" title="Node" **alt="Node" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/matlab/matlab-original.svg#L1" title="Matlab" **alt="Matlab" width="40" height="40"/>&nbsp;
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/5qFQhnkCG9IOQYGzsF/giphy.gif" width="240" height="88"  /></p>
