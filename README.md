@@ -28,7 +28,8 @@
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg#L1" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/matlab/matlab-original.svg#L1" title="Matlab" **alt="Matlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/develop/icons/ros/ros-original-wordmark.svg" title="ROS" **alt="ROS" width="40" height="40"/>&nbsp;
+<img src="https://i.ibb.co/HzGbyP3/Sin-nombre.png" title="ROS" **alt="ROS" width="70" height="70"/>&nbsp;
+
   
 </p>
 
