@@ -33,3 +33,7 @@
   
 </p>
 
+---
+### Social
+<a href="https://app.daily.dev/jrg"><img src="https://api.daily.dev/devcards/v2/Sdt6QVS2jAWlbafIohsVS.png?r=tnm" width="200" alt="Jorge Muñoz Rodríguez's Dev Card"/></a>
+
