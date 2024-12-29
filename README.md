@@ -7,7 +7,7 @@
 <pre>
   🎓 Studying Software Enginering at Seville University.
   📝 I have a strong interest in Data Science.
-  🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1-Ekq-2jBBx3-yzk2aNO0NYAMynNSJzkc/view?usp=sharing" target="_blank">MY RESUME</a>.
+  🤔 I’m currently open for a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1ivJGFyHll3HS8xPiI9xxIF-b0uaO3PZZ/view?usp=sharing" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
 
