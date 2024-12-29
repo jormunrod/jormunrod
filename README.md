@@ -50,23 +50,12 @@
 
 <hr>
 
-<h3>🤝 &nbsp;Connect with me
-<p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<h3>⚡ &nbsp;Connect with me </h3>
+<p>
+	<a href="mailto:jorgemr@pm.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=for-the-badge" alt="Proton Mail Badge"></a>
+	<a href="https://www.linkedin.com/in/jorge-mun-rod"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-
-
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/jorge-mun-rod"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jormunrod&style=flat-square&color=blue" alt=""></p>
 
 
 
