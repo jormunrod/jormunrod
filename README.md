@@ -52,7 +52,7 @@
 
 <h3>⚡ &nbsp;Connect with me </h3>
 <p>
-	<a href="mailto:jorgemr@pm.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=for-the-badge" alt="Proton Mail Badge"></a>
+	<a href="mailto:jorgemr@pm.me"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
 	<a href="https://www.linkedin.com/in/jorge-mun-rod"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
