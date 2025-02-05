@@ -1,6 +1,6 @@
 ![Header](./images/header-image.png)
 
-<h3> 💻 &nbsp;About Me </h3>
+<h3> 💻 &nbsp;About Me</h3>
 
 <hr>
 
