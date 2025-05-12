@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=fff&style=for-the-badge" alt="Java Badge">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=for-the-badge" alt="C# Badge">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=for-the-badge" alt="ROS Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
@@ -28,6 +27,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" alt="Django Badge">
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge" alt="Spring Badge">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
+  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=for-the-badge" alt="ROS Badge">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge">
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" alt="ASP.NET Badge">
 </p>
@@ -52,8 +52,17 @@
 
 <hr>
 
+<h3>🧮 &nbsp;Stats </h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jormunrod&theme=react&show_icons=true&hide_border=true&count_private=false&rank_icon=github&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormunrod&hide_progress=true&hide_border=true&theme=react&hide=jupyter%20notebook,hack,html,makefile,cmake,shell">
+</p>
+
+<hr>
+
 <h3>⚡ &nbsp;Connect with me </h3>
 <p>
 	<a href="mailto:jorgemr@pm.me"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail Badge"></a>
 	<a href="https://www.linkedin.com/in/jorge-mun-rod"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
+
